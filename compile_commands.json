@@ -1,0 +1,142 @@
+[
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\Main\\FrameworkArduino\\CDC.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\CDC.cpp",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\CDC.cpp"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\Main\\FrameworkArduino\\HardwareSerial.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\HardwareSerial.cpp",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\HardwareSerial.cpp"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\Main\\FrameworkArduino\\HardwareSerial0.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\HardwareSerial0.cpp",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\HardwareSerial0.cpp"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\Main\\FrameworkArduino\\HardwareSerial1.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\HardwareSerial1.cpp",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\HardwareSerial1.cpp"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\Main\\FrameworkArduino\\HardwareSerial2.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\HardwareSerial2.cpp",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\HardwareSerial2.cpp"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\Main\\FrameworkArduino\\HardwareSerial3.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\HardwareSerial3.cpp",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\HardwareSerial3.cpp"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\Main\\FrameworkArduino\\IPAddress.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\IPAddress.cpp",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\IPAddress.cpp"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\Main\\FrameworkArduino\\PluggableUSB.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\PluggableUSB.cpp",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\PluggableUSB.cpp"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\Main\\FrameworkArduino\\Print.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\Print.cpp",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\Print.cpp"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\Main\\FrameworkArduino\\Stream.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\Stream.cpp",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\Stream.cpp"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\Main\\FrameworkArduino\\Tone.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\Tone.cpp",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\Tone.cpp"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\Main\\FrameworkArduino\\USBCore.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\USBCore.cpp",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\USBCore.cpp"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-gcc.exe -o .pio\\build\\Main\\FrameworkArduino\\WInterrupts.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\WInterrupts.c",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\WInterrupts.c"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\Main\\FrameworkArduino\\WMath.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\WMath.cpp",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\WMath.cpp"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\Main\\FrameworkArduino\\WString.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\WString.cpp",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\WString.cpp"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\Main\\FrameworkArduino\\abi.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\abi.cpp",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\abi.cpp"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-gcc.exe -o .pio\\build\\Main\\FrameworkArduino\\hooks.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\hooks.c",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\hooks.c"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\Main\\FrameworkArduino\\main.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\main.cpp",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\main.cpp"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\Main\\FrameworkArduino\\new.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\new.cpp",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\new.cpp"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-gcc.exe -o .pio\\build\\Main\\FrameworkArduino\\wiring.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring.c",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring.c"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-gcc.exe -o .pio\\build\\Main\\FrameworkArduino\\wiring_analog.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring_analog.c",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring_analog.c"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-gcc.exe -o .pio\\build\\Main\\FrameworkArduino\\wiring_digital.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring_digital.c",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring_digital.c"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-as.exe -mmcu=atmega32u4 -o .pio\\build\\Main\\FrameworkArduino\\wiring_pulse.S.o C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring_pulse.S",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring_pulse.S"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-gcc.exe -o .pio\\build\\Main\\FrameworkArduino\\wiring_pulse.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring_pulse.c",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring_pulse.c"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-gcc.exe -o .pio\\build\\Main\\FrameworkArduino\\wiring_shift.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring_shift.c",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring_shift.c"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\Main\\lib771\\SPI\\SPI.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\libraries\\SPI\\src -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\libraries\\SPI\\src\\SPI.cpp",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\libraries\\SPI\\src\\SPI.cpp"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\Main\\libd13\\canDo\\mcp_can.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Ilib\\canDo -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\libraries\\SPI\\src -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo lib\\canDo\\mcp_can.cpp",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada\\lib\\canDo\\mcp_can.cpp"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\Main\\src\\main.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Iinclude -Isrc -Ilib\\canDo -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\libraries\\SPI\\src -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo src\\main.cpp",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada\\src\\main.cpp"
+    }
+]
