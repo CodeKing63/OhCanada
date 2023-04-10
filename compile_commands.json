@@ -135,7 +135,27 @@
         "file": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada\\lib\\canDo\\mcp_can.cpp"
     },
     {
-        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\Main\\src\\main.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Iinclude -Isrc -Ilib\\canDo -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\libraries\\SPI\\src -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo src\\main.cpp",
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\Main\\lib393\\canHacker\\CanHacker.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Ilib\\canHacker -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\libraries\\SPI\\src -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo lib\\canHacker\\CanHacker.cpp",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada\\lib\\canHacker\\CanHacker.cpp"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\Main\\lib393\\canHacker\\CanHackerLineReader.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Ilib\\canHacker -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\libraries\\SPI\\src -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo lib\\canHacker\\CanHackerLineReader.cpp",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada\\lib\\canHacker\\CanHackerLineReader.cpp"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\Main\\lib393\\canHacker\\lib.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Ilib\\canHacker -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\libraries\\SPI\\src -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo lib\\canHacker\\lib.cpp",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada\\lib\\canHacker\\lib.cpp"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\Main\\lib393\\canHacker\\mcp2515.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Ilib\\canHacker -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\libraries\\SPI\\src -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo lib\\canHacker\\mcp2515.cpp",
+        "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
+        "file": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada\\lib\\canHacker\\mcp2515.cpp"
+    },
+    {
+        "command": "C:\\Users\\AliBa\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\Main\\src\\main.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Iinclude -Isrc -Ilib\\canHacker -Ilib\\canDo -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\libraries\\SPI\\src -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\AliBa\\.platformio\\packages\\framework-arduino-avr\\variants\\leonardo src\\main.cpp",
         "directory": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada",
         "file": "C:\\Users\\AliBa\\Desktop\\Canned\\OhCanada\\src\\main.cpp"
     }

@@ -8,22 +8,11 @@ THere are CANbed specific libraries being used here. However all additional ardu
 #include <SPI.h>
 #include "mcp_can.h"
 
-#include <lib.h>
-#include <can.h>
-#include <mcp2515.h>
-#include <CanHacker.h>
-#include <CanHackerLineReader.h>
-
-CanHackerLineReader *lineReader = NULL;
-CanHacker *canHacker = NULL;
-
-
 const int SPI_CS_PIN = 17;
-const int INT_PIN = 3;
-
 MCP_CAN CAN(SPI_CS_PIN);                                    // Set CS pin
-void setup() {
 
+
+void setup() {
     Serial.begin(115200);
     while(!Serial);
     while (CAN_OK != CAN.begin(CAN_500KBPS))    // init can bus : baudrate = 500k
@@ -32,13 +21,6 @@ void setup() {
         delay(100);
     }
     Serial.println("CAN BUS OK!");
-
-    canHacker = new CanHacker(&Serial, NULL, SPI_CS_PIN);
-    canHacker->enableLoopback();            // Enable Loopback mode for offline tests
-    lineReader = new CanHackerLineReader(canHacker);
-    
-    pinMode(INT_PIN, INPUT);
-
 }
 
 void canBed_V1(){
@@ -62,19 +44,8 @@ void canBed_V1(){
         }
         Serial.println();
     }
-}
-
-void candleHacker(){
-    if (digitalRead(INT_PIN) == LOW) {
-        canHacker->processInterrupt();
-    }
-    if (Serial.available()) {
-        lineReader->process();
-    }
-}
+};
 
 void loop() {
     canBed_V1();
-    candleHacker();
-    
-}    
+}
